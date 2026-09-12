@@ -1,294 +1,317 @@
-<!-- ========================= -->
+<!-- ========================================================= -->
 
-<!--       PROFILE HEADER      -->
+<!--              UTPAL JANA — CYBER PROFILE                  -->
 
-<!-- ========================= -->
+<!-- ========================================================= -->
 
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#0e75b6;">UTPAL JANA</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Frontend Developer | Web Developer | Technology Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,50:0e75b6,100:00d9ff&height=220&section=header&text=UTPAL%20JANA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20WEB%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn"/>
+
+</div>
 
 <p align="center">
-  <a href="https://github.com/utpal-tec">
-    <img src="https://komarev.com/ghpvc/?username=utpal-tec&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/utpal-tec">
-    <img src="https://img.shields.io/github/followers/utpal-tec?label=Followers&color=0e75b6&style=flat-square" alt="Followers"/>
-  </a>
-  <a href="https://github.com/utpal-tec">
-    <img src="https://img.shields.io/github/stars/utpal-tec?label=Stars&color=0e75b6&style=flat-square" alt="Stars"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=utpal-tec&label=SYSTEM%20VISITS&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding"/>
-
-Hello! I'm **Utpal Jana**, a passionate developer from **India** who enjoys creating modern, responsive and user-friendly web applications.
-
-I love transforming ideas into real-world digital solutions using clean code and creative interfaces.
-
-### 🚀 Currently
-
-* 🔭 Working on **Web Development Projects**
-* 🌱 Learning and improving my **JavaScript & Web Development** skills
-* 💻 Building responsive and interactive websites
-* 🎯 Focused on writing clean and maintainable code
-* 📚 Always exploring new technologies
-* ⚡ Passionate about technology and programming
-
-<br clear="right"/>
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=c" height="45" alt="C"/>
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
-  </a>
-</p>
-
-### 🌐 Web Technologies
-
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"/>
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
-  </a>
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" alt="Tools"/>
-  </a>
-</p>
-
----
-
-# 🚀 What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Web Applications
-
-Building responsive and interactive web applications using modern frontend technologies.
-
-</td>
-
-<td width="50%">
-
-### 🎨 UI & UX
-
-Creating clean, simple and user-friendly interfaces that work across devices.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚡ JavaScript Projects
-
-Developing dynamic applications and useful browser-based tools.
-
-</td>
-
-<td width="50%">
-
-### 🎓 Educational Platforms
-
-Creating digital solutions for education, examinations and learning.
-
-</td>
-</tr>
-</table>
-
----
-
-# 📌 Featured Projects
-
-## 🎓 RGCTC Online Exam
-
-A web-based online examination platform designed to conduct computer-based examinations.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:**
-https://github.com/utpal-tec
-
----
-
-## 📜 Educational & Certificate Projects
-
-Web-based educational tools and certificate-related applications designed to provide simple and practical digital solutions.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-# 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=utpal-tec&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=555555&bg_color=ffffff"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpal-tec&layout=compact&hide_border=true&title_color=0e75b6&text_color=555555&bg_color=ffffff"
-    width="42%"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=utpal-tec&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=utpal-tec&theme=flat&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 📈 My Developer Journey
-
-```text
-Learning
-   │
-   ▼
-Building Projects
-   │
-   ▼
-Solving Problems
-   │
-   ▼
-Improving Skills
-   │
-   ▼
-Building Better Products
-   │
-   ▼
-Repeat 🚀
-```
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
 
 <a href="https://github.com/utpal-tec">
-<img src="https://img.shields.io/badge/GitHub-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff"/>
 </a>
 
-<!-- Add your social links here -->
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/utpal-tec">
+<img src="https://img.shields.io/github/followers/utpal-tec?style=for-the-badge&logo=github&label=FOLLOWERS&color=0e75b6"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+<a href="https://github.com/utpal-tec">
+<img src="https://img.shields.io/github/stars/utpal-tec?style=for-the-badge&logo=github&label=STARS&color=00d9ff"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Developer Philosophy
+## `> whoami`
 
-<p align="center">
+```bash
+┌──[utpal@github]─[~]
+└─$ whoami
 
-### <i>"Learn continuously. Build consistently. Improve every day."</i>
+UTPAL JANA
+```
 
-</p>
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║   👨‍💻 Frontend Developer                           ║
+║   🌐 Web Developer                                 ║
+║   ⚡ JavaScript Enthusiast                          ║
+║   🇮🇳 Developer from India                         ║
+║                                                    ║
+║   Building • Learning • Experimenting              ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
 
-I believe every project is an opportunity to learn something new.
-My goal is to keep improving my development skills and create useful, reliable and meaningful digital experiences.
+> **I build modern web experiences with clean code, creative interfaces and a problem-solving mindset.**
 
 ---
 
-# ⚡ A Little Code About Me
+# `> ./about-me`
 
 ```javascript
-const developer = {
+const Utpal = {
     name: "Utpal Jana",
-    country: "India",
     role: "Frontend Developer",
+    location: "India",
 
-    skills: [
-        "HTML",
-        "CSS",
+    focus: [
+        "Web Development",
+        "Frontend Engineering",
         "JavaScript",
-        "Python",
-        "C",
-        "C++"
+        "Responsive UI"
     ],
 
-    passion: "Building for the Web",
+    currentlyLearning: [
+        "Modern JavaScript",
+        "Advanced Web Development"
+    ],
 
-    mindset: "Learn • Build • Improve"
+    mindset: "Build → Break → Learn → Improve"
 };
-
-console.log("Let's build something amazing! 🚀");
 ```
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+# `> ls ./skills`
+
+### `LANGUAGES`
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
-<p align="center">
-  <b>⭐ Thanks for visiting my GitHub profile!</b>
+### `WEB`
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-<p align="center">
-  <i>Feel free to explore my repositories and projects.</i>
+### `TOOLS`
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+---
+
+# `> cat ./tech-stack.txt`
+
+```text
+┌──────────────────────────────────────────────────┐
+│                 TECHNOLOGY STACK                 │
+├──────────────────────────────────────────────────┤
+│                                                  │
+│  HTML5          ████████████████████  Advanced  │
+│  CSS3           ███████████████████░  Advanced  │
+│  JavaScript     ██████████████████░░  Learning  │
+│  Python         ███████████████░░░░░  Learning  │
+│  C              ███████████████░░░░░  Learning  │
+│  C++            ███████████████░░░░░  Learning  │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+---
+
+# `> ./projects`
+
+## `01 — RGCTC Online Exam`
+
+```text
+[ PROJECT STATUS ]
+
+████████████████████████████████  ACTIVE
+
+Type        : Online Examination Platform
+Frontend    : HTML / CSS / JavaScript
+Purpose     : Web-based Examination System
+Focus       : UI + Exam Workflow + JavaScript
+```
+
+**Description**
+
+A web-based examination platform designed for conducting online computer-based examinations with a clean and responsive interface.
+
+**Technology**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## `02 — Educational Web Projects`
+
+```text
+[ CATEGORY ]
+
+EDUCATION / WEB APPLICATIONS
+
+• Educational tools
+• Online examination systems
+• Certificate interfaces
+• Browser-based utilities
+```
+
+---
+
+# `> system --status`
+
+```text
+┌─────────────────────────────────────────────┐
+│              SYSTEM STATUS                  │
+├─────────────────────────────────────────────┤
+│                                             │
+│  Developer Status     : ONLINE              │
+│  Learning Mode        : ACTIVE              │
+│  Coding Mode         : ENABLED              │
+│  Creativity           : 100%                │
+│  Curiosity            : UNLIMITED           │
+│                                             │
+│  Current Mission      : BUILD SOMETHING     │
+│                         AWESOME             │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+# `> github --stats`
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=utpal-tec&show_icons=true&hide_border=true&bg_color=050b14&title_color=00d9ff&icon_color=0e75b6&text_color=c9d1d9&include_all_commits=true"
+width="48%"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpal-tec&layout=compact&hide_border=true&bg_color=050b14&title_color=00d9ff&text_color=c9d1d9"
+width="40%"
+/>
+
+</p>
+
+---
+
+# `> github --streak`
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=utpal-tec&hide_border=true&background=050b14&ring=00d9ff&fire=0e75b6&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681"
+/>
+
+</p>
+
+---
+
+# `> github --trophies`
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=utpal-tec&theme=algolia&no-frame=true&no-bg=true&margin-w=8"
+/>
+
+</p>
+
+---
+
+# `> contribution --activity`
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=utpal-tec&bg_color=050b14&color=00d9ff&line=0e75b6&point=ffffff&area=true&hide_border=true"
+/>
+
+</p>
+
+---
+
+# `> connect`
+
+<p align="center">
+
+<a href="https://github.com/utpal-tec">
+<img src="https://img.shields.io/badge/GITHUB-050b14?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+</a>
+
+<!-- Replace # with your real social links -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/LINKEDIN-050b14?style=for-the-badge&logo=linkedin&logoColor=00d9ff"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/PORTFOLIO-050b14?style=for-the-badge&logo=google-chrome&logoColor=00d9ff"/>
+</a>
+
+</p>
+
+---
+
+# `> philosophy`
+
+```text
+┌───────────────────────────────────────────────────┐
+│                                                   │
+│   "Don't just use technology.                     │
+│    Understand how it works."                     │
+│                                                   │
+│                  — UTPAL JANA                     │
+│                                                   │
+└───────────────────────────────────────────────────┘
+```
+
+---
+
+# `> execute ./mindset.sh`
+
+```bash
+#!/bin/bash
+
+echo "[+] Starting developer mode..."
+
+while true
+do
+    learn
+    build
+    test
+    debug
+    improve
+done
+```
+
+---
+
+<div align="center">
+
+### `> SYSTEM MESSAGE`
+
+```text
+ACCESS GRANTED ✓
+
+Thanks for visiting my profile.
+
+Keep learning.
+Keep building.
+Keep exploring.
+
+— UTPAL JANA
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:050b14&height=120&section=footer"/>
+
+</div>
